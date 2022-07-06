@@ -1,2 +1,2 @@
-# babylonjs-jest
+# jest-typescript
 Created with CodeSandbox
