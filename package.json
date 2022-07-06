@@ -1,7 +1,7 @@
 {
-  "name": "jest-typescript",
+  "name": "babylon-js-and-jest-test",
   "version": "1.0.0",
-  "description": "",
+  "description": "Babylon JS failing jest tests",
   "main": "index.html",
   "scripts": {
     "start": "parcel index.html --open",
