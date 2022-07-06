@@ -17,7 +17,6 @@ document.getElementById("app").innerHTML = `
     <br>
       ${code.getMessage()}, 
       ${code.getTime()}
-      ${code.printBaby()}
     <br>
   </div>
 `;

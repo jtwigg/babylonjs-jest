@@ -1,5 +1,3 @@
-import * as BABYLON from "@babylonjs/core";
-
 class Code {
   names: string[] = [];
   message: string = "";
@@ -20,11 +18,6 @@ class Code {
 
   greet() {
     return "Hello, " + this.message + this.names;
-  }
-
-  printBaby() {
-    const scalar = new BABYLON.Scalar();
-    console.log(scalar);
   }
 }
 export { Code };
